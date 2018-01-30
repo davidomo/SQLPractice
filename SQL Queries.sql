@@ -67,7 +67,7 @@ SET first_name = 'MUCHO GROUCHO'
 WHERE actor_id = 172
 
 -- 5a
-
+SHOW CREATE TABLE address;
 
 -- 6a
 SELECT * FROM staff;
